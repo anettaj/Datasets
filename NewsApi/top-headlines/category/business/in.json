@@ -3,7 +3,7 @@
   "totalResults": 63,
   "articles": [
     {
-      "id": 11,
+      "id": "11",
       "author": "CNBCTV18.com",
       "title": "Stock Market LIVE Updates: Power, metal, IT help Nifty reclaim 16,800; Sensex up 400 points - CNBCTV18",
       "description": "Stock Market LIVE Updates: Indian equity benchmarks BSE Sensex and NSE Nifty50 built on opening gains on Thursday tracking positive global cues, after the Fed hiked the key interest rate by an expected 50 bps and ruled out more aggressive tightening of policy…",
@@ -13,7 +13,7 @@
       "content": "Market Watch | Unmesh Sharma, Head-Institutional Equities, HDFC Securities (fundamental) on earnings\r\nTo a large extent, what we see is 60 percent of corporate profits are quite ring fenced and solid… [+482 chars]"
     },
     {
-      "id": 12,
+      "id": "12",
       "author": "Moneycontrol News",
       "title": "LIC IPO Live Updates: Second day of bidding, issue subscribed 86%, Policyholders 2.61 times, Staff 1.8... - Moneycontrol",
       "description": "The government will be selling a 3.5 percent stake entirely through an offer for sale (OFS). Of which 10 percent of the shares are reserved for LIC policyholders and 0.7 percent for LIC employees. Also, 31.25 percent is reserved for household (retail) investo…",
@@ -23,7 +23,7 @@
       "content": "Indian life insurance market is still underinsured compared to major economies\r\nIndia’s life insurance penetration stood at 3.2 percent in CY20 compared to the global average of 3.3 percent. Among As… [+672 chars]"
     },
     {
-      "id": 13,
+      "id": "13",
       "author": "Ravindra Sonavane",
       "title": "Delhivery shares slump in unlisted market ahead of IPO - Moneycontrol",
       "description": "Delhivery has set the price band in its IPO at Rs 462-487 a share, valuing the company at Rs 35,283 crore at the upper end. This is down about 19% from the current price in the unlisted market.",
@@ -33,7 +33,7 @@
       "content": "Shares of logistics and supply-chain startup Delhivery Ltd are down nearly 40 percent in the unlisted market from the peak of Rs 950 apiece in January ahead of its initial public offering (IPO).\r\nThe… [+3368 chars]"
     },
     {
-      "id": 14,
+      "id": "14",
       "author": "HT Auto Desk",
       "title": "Top 10 carmakers in India in April: Tata, Hyundai in tight race for second spot - HT Auto",
       "description": "Top 10 car brands in India in April 2022: Maruti Suzuki remains the leader among top 10 carmakers with a market share of more than 40 percent. The closest rival Hyundai has a market share of around 15 percent.",
@@ -43,7 +43,7 @@
       "content": "The Indian auto industry has been reeling under the global chip shortage crisis for some time. While it tries to emerge from the Covid-19 lockdown and the ongoing slowdown in economy, the chip crisis… [+5506 chars]"
     },
     {
-      "id": 15,
+      "id": "15",
       "author": "Business Desk",
       "title": "ICICI Bank, Bank of Baroda Hike Repo-Linked Lending Rates by 40 bps. How it Will Impact - News18",
       "description": "After a mid-cyclic RBI rate hike, on Thursday, ICICI Bank raises the external benchmark lending rate by 40 bps to 8.10 per cent.",
@@ -53,7 +53,7 @@
       "content": "After a mid-cyclic RBI rate hike, on Thursday, ICICI Bank raises the external benchmark lending rate by 40 bps to 8.10 per cent. “ICICI Bank External Benchmark Lending Rate\" (I-EBLR) is referenced to… [+2978 chars]"
     },
     {
-      "id": 16,
+      "id": "16",
       "author": null,
       "title": "Family Leaves Food Court Table Full Of Trash, Internet says \"Never Seen A Mess This bad\" - NDTV",
       "description": "A shocking photo taken moments after a family exited a KFC in Saudi Arabia has left the internet outraged. The image, shared on Reddit, shows piles of KFC containers and half-eaten meals scattered across three tables in a food court in Riyadh.",
@@ -63,7 +63,7 @@
       "content": "The infuriating photo has received thousands of views and left internet outraged. (Representative Photo)\r\nA shocking photo taken moments after a family exited a KFC outlet in Saudi Arabia has left th… [+1908 chars]"
     },
     {
-      "id":17,
+      "id":"17",
       "author": "Chandra R Srikanth",
       "title": "EXCLUSIVE: Ola Cars CEO Arun Sirdeshmukh and Ola group strategy head Amit Anchal to exit - Moneycontrol",
       "description": "An Ola spokesperson confirmed Siredeshmukh's exit in response to queries from Moneycontrol, but she firmly denied Anchal was leaving and said he was still part of the company.",
@@ -73,7 +73,7 @@
       "content": "SoftBank-backed Ola's vehicle commerce CEO Arun Sirdeshmukh and its chief of group strategy Amit Anchal are leaving the firm, people familiar with the matter said, marking crucial exits when it is gr… [+5079 chars]"
     },
     {
-      "id":18,
+      "id":"18",
       "author": "Al Jazeera",
       "title": "US plans to impose sanctions on China’s Hikvision: Report - Al Jazeera English",
       "description": "Firm has been accused of enabling human rights abuses by supplying cameras used in the repression of the Uighurs.",
@@ -83,7 +83,7 @@
       "content": "The United States is moving towards imposing new sanctions on Chinese video surveillance company Hikvision, the Financial Times reported on Wednesday, citing four people familiar with the talks.\r\nThe… [+2884 chars]"
     },
     {
-      "id": 19,
+      "id": "19",
       "author": "Bloomberg",
       "title": "Fed hikes rates half point, will shrink assets to curb inflation - Economic Times",
       "description": "It will begin allowing its holdings of Treasuries and mortgage-backed securities to decline in June at an initial combined monthly pace of $47.5 billion, stepping up over three months to $95 billion.",
@@ -93,7 +93,7 @@
       "content": "The Federal Reserve delivered the biggest interest-rate increase since 2000 and signaled it would keep hiking at that pace over the next couple of meetings, unleashing the most aggressive policy acti… [+5308 chars]"
     },
     {
-      "id": 110,
+      "id": "110",
       "author": "Moneycontrol News",
       "title": "What should investors do with Kotak Mahindra Bank after earnings; buy, sell or hold? - Moneycontrol",
       "description": "Asset quality has improved sequentially, with the bank reporting gross non-performing assets (NPAs), as a percentage of total advances, of 2.34% in the March quarter, down 91 bps from a year ago.",
@@ -103,7 +103,7 @@
       "content": "Kotak Mahindra Bank share price rose 2 percent in early trade on May 5, a day after the company reported its March quarter earnings.\r\nPrivate sector lender Kotak Mahindra Bank on Wednesday reported a… [+4741 chars]"
     },
     {
-      "id": 111,
+      "id": "111",
       "author": "Paarth Khatri",
       "title": "2022 Mahindra Scorpio rendered ahead of launch: What it could look like - CarToq.com",
       "description": "Mahindra has been testing the new generation of the Scorpio for quite some years now. They will be launching the new-gen Scorpio finally this year. 2022 also marks the 20th anniversary of the Scorpio as it was first introduced back in 2002. Here, we have a re…",
@@ -113,7 +113,7 @@
       "content": "Mahindra has been testing the new generation of the Scorpio for quite some years now. They will be launching the new-gen Scorpio finally this year. 2022 also marks the 20th anniversary of the Scorpio… [+2845 chars]"
     },
     {
-      "id": 112,
+      "id": "112",
       "author": "Ayushman Baruah",
       "title": "Cognizant Reports 11.5% Rise In Q1 Net Profit, Posts Highest Ever Quarterly Revenue | Mint - Mint",
       "description": "Cognizant revised its full year 2022 revenue growth guidance to 9-11% in constant currency at $19.8-20.2 billion which includes an improved organic revenue growth outlook and a lower inorganic contribution, reflecting a disciplined acquisition strategy",
@@ -123,7 +123,7 @@
       "content": "BENGALURU: Nasdaq-listed Cognizant Technology Solutions Corps March quarter net profit rose 11.5% year-on-year to $563 million, on the back of an 11% increase in revenue in constant currency to $4.8 … [+2645 chars]"
     },
     {
-      "id": 113,
+      "id": "113",
       "author": "Smriti Chaudhary",
       "title": "Stock Market Today: All You Need To Know Going Into Trade On May 5 - BloombergQuint",
       "description": "Stocks in the news, big brokerage calls of the day, complete trade setup and much more!",
@@ -133,7 +133,7 @@
       "content": "Inter-Se Fund Transfer Of Stocks Between iShares Core MSCI Total International Stock ETF and iShares Core Total International Stock Mauritius Co.\r\nThese are the stocks:\r\nAarti Industries, Aavas Finan… [+2914 chars]"
     },
     {
-      "id": 114,
+      "id": "114",
       "author": "Paarth Khatri",
       "title": "Volkswagen Taigun now comes with TPMS & idle start/stop as standard - CarToq.com",
       "description": "Volkswagen has added a tyre pressure monitoring system and an engine idle start/stop system to Taigun. Both of these features are now offered as standard across all variants of the mid-size SUV. Volkswagen has also increased the prices of the Taigun. The pric…",
@@ -143,7 +143,7 @@
       "content": "Volkswagen has added a tyre pressure monitoring system and an engine idle start/stop system to Taigun. Both of these features are now offered as standard across all variants of the mid-size SUV. Volk… [+3006 chars]"
     },
     {
-      "id": 115,
+      "id": "115",
       "author": "Moneycontrol News",
       "title": "Fuel Prices on May 5: Check out petrol, diesel rates in Mumbai, Delhi and other cities - Moneycontrol",
       "description": "According to a price notification from fuel retailers, petrol in Delhi costs Rs 105.41 per litre and diesel Rs 96.67 per litre.",
@@ -153,7 +153,7 @@
       "content": "Prices of petrol and diesel have remained steady for almost a month now. Since the end of a four-and-a-half-month hiatus in rate revision on March 22, rates of petrol and diesel have increased by Rs … [+3353 chars]"
     },
     {
-      "id": 116,
+      "id": "116",
       "author": "Nickey Mirchandani",
       "title": "Tata Steel Says May Review Dividend Policy - BloombergQuint",
       "description": "Tata Steel may review its dividend policy sometime soon even as it has recommended its highest payout in its history.",
@@ -163,7 +163,7 @@
       "content": "Tata Steel Ltd. said it may review its dividend policy sometime soon even as the company has recommended its highest payout in its history.\r\nThe companys current capital allocation policy continues t… [+1024 chars]"
     },
     {
-      "id": 117,
+      "id": "117",
       "author": "ETMarkets.com",
       "title": "SGX Nifty rises 150 points; here's what changed for markets while you were sleeping - Economic Times",
       "description": "Major Asian stocks started Thursday with a healthy advance after the Federal Reserve lifted interest rates but played down any chance of a huge 75 basis-point lift in the near future. MSCI's index of Asia-Pacific shares outside Japan was up by 1.08 per cent.",
@@ -173,7 +173,7 @@
       "content": "After a steep fall in the previous session, the Indian equity market was set for a gap-up start on Thursday, tracking strong global sentiments. US stocks rallied sharply after the Fed downplayed the … [+4368 chars]"
     },
     {
-      "id": 118,
+      "id": "118",
       "author": "Rohit",
       "title": "Skoda Kushaq Is Now Pricier By Up To Rs 70,000 - CarDekho",
       "description": "The price hike is applicable to all trims, save for the recently launched Ambition Classic variants     Skoda now retails the Kushaq from Rs 11.29 lakh to Rs 18.79 lakh.    Price hike ranges between Rs 5,000 and Rs 70,000.    No changes under the hood, still …",
@@ -183,7 +183,7 @@
       "content": "<ul><li>Skoda now retails the Kushaq from Rs 11.29 lakh to Rs 18.79 lakh.\r\n</li><li>Price hike ranges between Rs 5,000 and Rs 70,000.\r\n</li><li>No changes under the hood, still offered with both 1-li… [+2211 chars]"
     },
     {
-      "id": 119,
+      "id": "119",
       "author": "Jason Nelson",
       "title": "Gucci to Begin Accepting Bitcoin in Some Stores - Decrypt",
       "description": "Gucci is the latest luxury brand to begin accepting crypto payments.",
@@ -193,7 +193,7 @@
       "content": "Iconic fashion brand Gucci will begin accepting cryptocurrency in some of its U.S. locations later this month, with plans to roll out the program to other North American stores this summer.\r\nAccordin… [+1810 chars]"
     },
     {
-      "id": 120,
+      "id": "120",
       "author": "Dev Chatterjee",
       "title": "Ambuja acquisition could be LICs windfall; acquirer to make open offer - Business Standard",
       "description": "LIC owns 6.3 per cent stake worth Rs 4,602 crore in Ambuja Cements and 5.66 per cent stake worth Rs 2,445 crore in ACC",
@@ -203,7 +203,7 @@
       "content": "Business Standard has always strived hard to provide up-to-date information and commentary on developments that are of interest to you and have wider political and economic implications for the count… [+1029 chars]"
     },
     {
-      "id": 121,
+      "id": "121",
       "author": "Investing.com",
       "title": "Dow futures Ease as Fed Lifts Interest Rates - Investing.com India",
       "description": "The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases.",
@@ -213,7 +213,7 @@
       "content": "By Oliver Gray \r\nInvesting.com - \r\nDow futures\r\n were trading slightly lower during Thursdays evening deals, following broad based gains among major benchmark averages after Federal Reserve policymak… [+2113 chars]"
     },
     {
-      "id": 122,
+      "id": "122",
       "author": "Press Trust of India",
       "title": "Future Retail MD Rakesh Biyani steps down, Company Secretary resigns - Business Standard",
       "description": "The Future Group flagship firm is facing an insolvency petition by its lenders before the National Company Law Tribunal",
@@ -223,7 +223,7 @@
       "content": "Future Retail Managing Director Rakesh Biyani has stepped down while officials, including the company secretary of the debt-ridden firm, have tendered resignations.\r\nThe Future Group flagship firm is… [+3385 chars]"
     },
     {
-      "id": 123,
+      "id": "123",
       "author": "HT Correspondent",
       "title": "Centre asks VPN services to log, hand over customer data - Hindustan Times",
       "description": "The new directives from India’s Computer Emergency Response Team (CERT-in), the government’s nodal agency for detecting and responding to cyber incidents, may have far-reaching ramifications on how VPN services are offered and used in the country. | Latest Ne…",
@@ -233,7 +233,7 @@
       "content": "Soon, companies offering virtual private network (VPN) or cloud services in India may be required to collect, as well as maintain, extensive and accurate data of their consumers for five years under … [+2391 chars]"
     },
     {
-      "id": 124,
+      "id": "124",
       "author": "http://www.facebook.com/kitconews",
       "title": "Gold sees modest rally following mildly dovish FOMC statement - Kitco NEWS",
       "description": "Senior Technical Analyst Jim Wyckoff prepares investors with an overview of how the markets opened and closed. What moved metal prices? How do the technicals look? By looking at important developments",
@@ -243,7 +243,7 @@
       "content": "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+4035 chars]"
     },
     {
-      "id": 125,
+      "id": "125",
       "author": "Moneycontrol News",
       "title": "Travel aggregator ixigo appoints Rahul Gautam as Group CFO - Moneycontrol",
       "description": "The appointment will come into effect from May 5, 2022, the company said, adding that Gautam would be replacing former Group CFO Ravi Gupta, who resigned due to &quot;personal reasons&quot;.",
@@ -253,7 +253,7 @@
       "content": "Travel aggregator ixigo on May 4 announced the appointment of Rahul Gautam, a veteran in the realm of capital markets and corporate finance, as its new Group Chief Financial Officer.\r\nThe appointment… [+1269 chars]"
     },
     {
-      "id": 126,
+      "id": "126",
       "author": "Jaiveer Mehra",
       "title": "New Mercedes-Benz C-Class Debuts In India Ahead Of May 10 Launch - carandbike",
       "description": "Fifth-gen C-Class will be offered with a new 1.5-litre petrol and a pair of 2.0-litre diesel engines",
@@ -263,7 +263,7 @@
       "content": "Mercedes has unveiled the new C-Class in India ahead of its launch on May 10, 2022. Now in its fifth generation, the new C-Class debuted early last year growing in size over its predecessor and packi… [+3294 chars]"
     },
     {
-      "id": 127,
+      "id": "127",
       "author": null,
       "title": "Reliance Jio launches 4 new prepaid plans with free Disney+ Hotstar subscription - India Today",
       "description": "With the new Reliance Jio prepaid plans, one won’t be required to separately buy Disney+ Hotstar subscription to watch all the cricket matches.",
@@ -273,7 +273,7 @@
       "content": "Reliance Jio has launched new prepaid recharge plans that offer at least three months of Disney+ Hotstar Mobile subscription. The telecom operator has introduced new plans to let customers watch the … [+1864 chars]"
     },
     {
-      "id": 128,
+      "id": "128",
       "author": "http://www.facebook.com/kitconews",
       "title": "Gold price continues to struggle as ISM service-sector PMI falls in April - Kitco NEWS",
       "description": "(Kitco News) - Disappointing economic data continues to provide little support for the gold market as all the focus is on the Federal Reserve’s impending monetary policy decision.",
@@ -283,7 +283,7 @@
       "content": "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+1859 chars]"
     },
     {
-      "id": 129,
+      "id": "129",
       "author": null,
       "title": "\"Turned House Into Nightclub To Afford Rent\": Elon Musk - NDTV",
       "description": "Billionaire tech entrepreneur Elon Musk, who recently bought Twitter in a $44 billion deal, has said that he once turned his house into a nightclub to pay for rent.",
@@ -293,7 +293,7 @@
       "content": "Elon Musk said he did pay his house rent by turning it into a nightclub. (FILE)\r\nBillionaire tech entrepreneur Elon Musk, who recently bought Twitter in a $44 billion deal, has said that he once turn… [+1859 chars]"
     },
     {
-      "id": 130,
+      "id": "130",
       "author": "Siddhi Nayak",
       "title": "Kotak Mahindra Bank open for 'right opportunities', says Uday Kotak - Moneycontrol",
       "description": "Kotak's comments are significant as it comes against the backdrop of consolidation in the banking sector.",
@@ -303,7 +303,7 @@
       "content": "Private sector lender Kotak Mahindra Bank is looking at 'right opportunities' going ahead, its managing director and chief executive officer Uday Kotak told Moneycontrol on May 4.\r\nWe are consistentl… [+2397 chars]"
     },
     {
-      "id": 131,
+      "id": "131",
       "author": "Shubham Raj",
       "title": "Market Movers: Zomato tanks 7% to hit all-time low; here’s why - Economic Times",
       "description": "The selloff in the counter has come when almost all tech stocks have suffered. Even those listed in the US are in bear grip.",
@@ -313,7 +313,7 @@
       "content": "NEW DELHI: The worries for investors continued as the stock dipped to its fresh all-time low level on Wednesday after reports said BofA Securities downgraded the stock to neutral.\r\nThe counter ended … [+1795 chars]"
     },
     {
-      "id": 132,
+      "id": "132",
       "author": "Capital Market",
       "title": "Cartrade Tech reports consolidated net loss of Rs 25.67 crore in the March 2022 quarter - Business Standard",
       "description": "Sales rise 13.43% to Rs 93.14 crore",
@@ -323,7 +323,7 @@
       "content": "Sales rise 13.43% to Rs 93.14 crore\r\nNet loss of Cartrade Tech reported to Rs 25.67 crore in the quarter ended March 2022 as against net profit of Rs 13.25 crore during the previous quarter ended Mar… [+2078 chars]"
     },
     {
-      "id": 133,
+      "id": "133",
       "author": "Swastika Sharma",
       "title": "Rainbow Children's Medicare IPO Share Allotment Tomorrow: How to Check Status in 2 Ways - News18",
       "description": "Rainbow Children's Medicare IPO GMP Today: The unlisted shares of Rainbow Children's Medicare IPO was giving a premium of Rs 40 at the grey market on Wednesday.",
@@ -333,7 +333,7 @@
       "content": "Rainbow Children’s Medicare IPO: The initial public offering, or IPO, of multi-specialty pediatric and obstetrics and gynecology hospital chain Rainbow Childrens Hospital Limited received decent resp… [+2996 chars]"
     },
     {
-      "id": 134,
+      "id": "134",
       "author": "Viswanath Pilla",
       "title": "Pfizer’s 1st drug development lab in Asia opens in Chennai - Economic Times",
       "description": "The centre would develop and support products in global markets and Pfizer's manufacturing centres, worldwide. The facility is among 12 centres established worldwide, and the first in Asia.",
@@ -343,7 +343,7 @@
       "content": "US pharmaceutical company Pfizer has set up its global drug development centre at the Indian Institute of Technology-Madras Research Park here, at an outlay of over Rs 150 crore. The centre, which em… [+2238 chars]"
     },
     {
-      "id": 135,
+      "id": "135",
       "author": "Dev Shah",
       "title": "Kia Carens 1.4 petrol MT: Thoughts & observations after 1700 km - Team-BHP",
       "description": "BHPian sou_3749 recently shared this with other enthusiasts. I would like to add my observations for the Carens 1.4 petrol manual. I have driven around 1700 km which is 85% highway and 15% city mix. We were 4 healthy people with 200 kg of luggage.",
@@ -353,7 +353,7 @@
       "content": "The engine is very tractable. No matter how loaded the vehicle is, you wont struggle.\r\nBHPian sou_3749 recently shared this with other enthusiasts.\r\nI would like to add my observations for the Carens… [+2100 chars]"
     },
     {
-      "id": 136,
+      "id": "136",
       "author": "Kshitij Rawat",
       "title": "Upcoming Maruti Midsize SUV Spied Again, Launch Later This Year - GaadiWaadi.com",
       "description": "The latest spy pictures of Maruti Suzuki’s new midsize SUV show the alloy wheel design, along with the new split headlamp setup",
@@ -363,7 +363,7 @@
       "content": "Maruti Suzuki and Toyota are jointly developing a new midsize SUV for the Indian market. The two manufacturers will launch the SUV individually under their respective brands. Marutis version was rece… [+1924 chars]"
     },
     {
-      "id": 137,
+      "id": "137",
       "author": "Aishwarya Dharni",
       "title": "Wondered How To Get Hired By Ashneer Grover If He Decides To Start A New Venture? Let's Find Out! - Indiatimes.com",
       "description": "Ashneer Grover became a household name when he appeared as one of the judges on the Indian rendition of the show Shark Tank. His 'wit' and blunt manner of talking quickly became dinner table conversation. However, his fame didn't do him any good as it spirall…",
@@ -373,7 +373,7 @@
       "content": "Ashneer Grover became a household name when he appeared as one of the judges on the Indian rendition of the show Shark Tank. His 'wit' and blunt manner of talking quickly became dinner table conversa… [+2453 chars]"
     },
     {
-      "id": 138,
+      "id": "138",
       "author": "CarDekho",
       "title": "Maruti Has More Driving Schools In India Than Some Brands Have Dealers - CarDekho",
       "description": "The nation’s top carmaker now has 500 driving schools situated across 242 cities  Five hundred, that’s the total number of Maruti driving schools now present in India. These centres span across 242 cities, offering people training sessions on quality driving …",
@@ -383,7 +383,7 @@
       "content": "The nations top carmaker now has 500 driving schools situated across 242 cities\r\nFive hundred, thats the total number of Maruti driving schools now present in India. These centres span across 242 cit… [+3714 chars]"
     },
     {
-      "id": 139,
+      "id": "139",
       "author": "ET Now",
       "title": "Bharat story playing strong for Titan: MD - Economic Times",
       "description": "“The Bharat story is very strong for Titan Company across all formats and we are seeing that playing out month after month and particularly in the April-June quarter, there will be a lot of semi-urban, rural weddings which we will certainly benefit through.  …",
@@ -393,7 +393,7 @@
       "content": "The Q4 of FY22 obviously was a challenging quarter because of Covid 3.0, because of the global crisis in March which put the price of gold in a spin, rising a lot and also being very volatile. It is … [+7003 chars]"
     },
     {
-      "id": 140,
+      "id": "140",
       "author": "Tech Desk",
       "title": "Twitter might come with a slight cost for commercial, government users: Elon Musk - The Indian Express",
       "description": "Governments and commercial users might soon find that their tweets come with a price tag, at least that’s what new Twitter owner Elon Musk has hinted in a new set of posts on the platforms.",
@@ -403,7 +403,7 @@
       "content": "Governments and commercial users might soon find that their tweets come with a price tag, at least thats what new Twitter owner Elon Musk has hinted. Musk posted on his official Twitter handled that … [+4097 chars]"
     },
     {
-      "id": 141,
+      "id": "141",
       "author": "Livemint",
       "title": "Honda Officially Launches City E:hev In India. Check Its Price And Features | Mint - Mint",
       "description": "City e:HEV will be manufactured at manufacturing facility in Rajasthan",
@@ -413,7 +413,7 @@
       "content": "Honda Cars India has today launched the City e:HEV in the country. Priced at 19,49,900 (ex-showroom, Delhi), the new City e:HEV is the first car in the mainstream segment equipped with hybrid electri… [+2472 chars]"
     },
     {
-      "id": 142,
+      "id": "142",
       "author": "Jocelyn Fernandes",
       "title": "IndiGo names Venkataramani Sumantran as new chairman as airline gears up for overseas expansion - Moneycontrol",
       "description": "Venkataramani Sumantran has been an independent non-executive director since May 28, 2020 and succeeded M Damodaran as chairman on May 3",
@@ -423,7 +423,7 @@
       "content": "Indias largest domestic carrier IndiGos parent InterGlobe Aviation named Venkataramani Sumantran as next chairman in a filing to exchanges on May 4 as Meleveetil Damodaran has stepped down from the b… [+2677 chars]"
     },
     {
-      "id": 143,
+      "id": "143",
       "author": "Zee Media Bureau",
       "title": "Delhi`s IGI Airport now the second busiest airport in the world, beats Dubai International Airport - Zee News",
       "description": "Mumbai International Airport to remain closed on May 10 for pre-monsoon maintenance Interestingly, the Delhi airport was ranked on the 23rd place in March 2019 before the pandemic, and has jumped 21 spots to reach the position.",
@@ -433,7 +433,7 @@
       "content": "Delhi's Indira Gandhi International Airport has been ranked the world's second busiest airport in March 2022 in terms of domestic and international flights handled, as per a study by Official Airline… [+1563 chars]"
     },
     {
-      "id": 144,
+      "id": "144",
       "author": "Ajeesh Kuttan",
       "title": "Hyundai Creta SUV Knight Edition launched at Rs 13.51 lakh - CarToq.com",
       "description": "Hyundai India has now announced the launch of the Knight Edition of their popular SUV Creta in the Indian market. The price for Knight Edition Hyundai Creta SUV starts at Rs 13.51 lakh, ex-showroom. Hyundai has made some cosmetic changes to the SUV that diffe…",
@@ -443,7 +443,7 @@
       "content": "Hyundai India has now announced the launch of the Knight Edition of their popular SUV Creta in the Indian market. The price for Knight Edition Hyundai Creta SUV starts at Rs 13.51 lakh, ex-showroom. … [+3064 chars]"
     },
     {
-      "id": 145,
+      "id":"145",
       "author": "Bhushan Akolkar",
       "title": "B B - CoinGape",
       "description": "Bitcoin (BTC) market bulls and bears have been engaging in a major battle ahead of the key FOMC meeting scheduled later today, Wednesday, May 4. Amid soaring inflation, the Federal Reserve is likely to hike interest rates by 50 basis points. Thus, the U.S. eq…",
@@ -453,7 +453,7 @@
       "content": "Bitcoin (BTC) market bulls and bears have been engaging in a major battle ahead of the key FOMC meeting scheduled later today, Wednesday, May 4. Amid soaring inflation, the Federal Reserve is likely … [+2127 chars]"
     },
     {
-      "id": 146,
+      "id": "146",
       "author": "Priyanka Iyer",
       "title": "Upstox reaches a user base of 10 million, surpasses Zerodha - Moneycontrol",
       "description": "Upstox’s active user base stands at 5 million, while Zerodha’s is at 6.2 million of its total 9 million users",
@@ -463,7 +463,7 @@
       "content": "Stock and mutual fund investment platform Upstox's user base has crossed 10 million, doubling from 5 million six months ago and ahead of rival Zerodha's 9 million.\r\nIn an interview to Moneycontrol on… [+4071 chars]"
     },
     {
-      "id": 147,
+      "id": "147",
       "author": "Tushar Kelshikar",
       "title": "Long-range Tata Nexon EV bookings open unofficially - Team-BHP",
       "description": "Tata Motors is gearing up to launch the long-range version of the Nexon EV later this month. However, according to reports, some dealerships have already started taking bookings for the electric SUV. The long-range Nexon EV will be positioned above the existi…",
@@ -473,7 +473,7 @@
       "content": "Tata Motors is gearing up to launch the long-range version of the Nexon EV later this month. However, according to reports, some dealerships have already started taking bookings for the electric SUV.… [+494 chars]"
     },
     {
-      "id": 148,
+      "id": "148",
       "author": "Asit Manohar",
       "title": "Adani Wilmar Dislodges Hul From The Position Of India's Largest Fmcg Company | Mint - Mint",
       "description": "Adani Wilmar Limited has reported operational revenue of  ₹ ₹54,214 crore in FY22 whereas HUL reported yearly revenue at  ₹51,468 crore in FY2021-22",
@@ -483,7 +483,7 @@
       "content": "Adani Wilmar Ltd (AWL) has trounced Hindustan Unilever Ltd (HUL) from the position of largest FMCG company of India. This became public after the announcement of Q4FY22 results of Adani Wilmar on Mon… [+1923 chars]"
     },
     {
-      "id": 149,
+      "id": "149",
       "author": "Shubhodeep Chakravarty",
       "title": "Tata Avinya EV concept, in-depth look: Tata Motors charging the future - HT Auto",
       "description": "Tata concept Avinya EV is an ambitious case study and a solid showcase of what the future holds, both in terms of mobility as well as wellness in mobility.",
@@ -493,7 +493,7 @@
       "content": "Tata Motors has been batting on the front foot when it comes to electric vehicles (EVs) but in recent times, the Indian automaker has been stepping out of the crease and hitting big with as many as t… [+3850 chars]"
     },
     {
-      "id": 150,
+      "id": "150",
       "author": "Moneycontrol News",
       "title": "Morning Scan: All the big stories to get you started for the day - Moneycontrol",
       "description": "A round-up of the biggest articles from newspapers",
@@ -503,7 +503,7 @@
       "content": "Exports rise 24% to $38 billion in April, trade deficit widens\r\nIndias goods exports in April grew 24.2 percent year-on-year to $38.2 billion, the commerce ministry said. The preceding month had witn… [+5843 chars]"
     },
     {
-      "id": 151,
+      "id": "151",
       "author": "HT News Desk",
       "title": "LIC IPO opens today: Here's what to look out for - Hindustan Times",
       "description": "LIC IPO opens today, May 4, 2022: One of the most awaited public issues, the LIC IPO hits the markets today and will remain open till May 9. Here are a few things to keep in mind before bidding.",
@@ -513,7 +513,7 @@
       "content": "LIC IPO: India's biggest public issue to date by the country's largest insurance provider the Life Insurance Corporation (LIC) initial public offering (IPO) has opened to primary markets on Wednesday… [+1767 chars]"
     },
     {
-      "id": 152,
+      "id": "152",
       "author": null,
       "title": "Total number of Kia vehicles sold in U.S. passes 10 mil. mark - Arirang News",
       "description": "기아, 美 누적 판매 1천만대 돌파…4월 전기차 판매 역대 최다South Korea's second-biggest carmaker, Kia, says it has registered its 10 millionth sale in the U.S. since deliveries to b...",
@@ -523,7 +523,7 @@
       "content": null
     },
     {
-      "id": 153,
+      "id": "153",
       "author": "Nikhil Puthran",
       "title": "Hyundai India hikes prices for Venue, Creta, and Alcazar - CarWale",
       "description": "Hyundai has silently hiked prices across its SUV lineup, which includes – the Venue, Creta, and the Alcazar",
@@ -533,7 +533,7 @@
       "content": "The auto industry has been significantly impacted by the shortage in the supply of semiconductors and rising input costs. Like most of the other automakers in the country, Hyundai India has also been… [+7335 chars]"
     },
     {
-      "id": 154,
+      "id": "154",
       "author": "Sunil Shankar Matkar",
       "title": "Campus Activewear IPO share allotment expected today: Here is how to check the status online - Moneycontrol",
       "description": "Campus Activewear IPO | After finalisation of allotment, the company will credit refunds to bank accounts of unsuccessful investors and shares to demat accounts of eligible investors by May 6.",
@@ -543,7 +543,7 @@
       "content": "Campus Activewear, a sports and athleisure footwear brand, is expected to finalise IPO share allotment on May 4, which is keenly watched by investors who had gone big on the issue. Investors can chec… [+1479 chars]"
     },
     {
-      "id": 155,
+      "id": "155",
       "author": "Karunjit Singh",
       "title": "Behind power crisis: Genco dues to coal cos another cog - The Indian Express",
       "description": "Low coal stocks at a majority of India’s thermal power plants have led to power outages across several states including Uttar Pradesh, Maharashtra, Madhya Pradesh, Rajasthan, Haryana, Tamil Nadu, Karnataka, Punjab, Jharkhand, and Bihar.",
@@ -553,7 +553,7 @@
       "content": "Large outstanding dues of power generation companies (gencos) to coal companies may be playing a role in the current power crisis as state gencos had total outstanding dues of about Rs 7,918.7 crore … [+3777 chars]"
     },
     {
-      "id": 156,
+      "id": "156",
       "author": null,
       "title": "Tesla CEO Elon Musk Gives Investment Advice He Says 'Will Serve You Well in the Long Term' – Featured Bitcoin News - Bitcoin News",
       "description": "Tesla and Spacex CEO Elon Musk has shared his recommended investment strategy, which he believes \"will serve you well in the long term.\"",
@@ -563,7 +563,7 @@
       "content": "Tesla and Spacex CEO Elon Musk has shared his recommended investment strategy, which he believes “will serve you well in the long term.” Some people noted that Musk’s strategy is similar to one adopt… [+2967 chars]"
     },
     {
-      "id": 157,
+      "id": "157",
       "author": "Subhash Narayan",
       "title": "India Turns To Coal Again Despite Climate Woes | Mint - Mint",
       "description": "NTPC looks to expand coal-fuelled power generation capacity after 6 yrs",
@@ -573,7 +573,7 @@
       "content": "NEW DELHI :\r\nIndia plans to expand its coal-fuelled power generation capacity after a six-year gap as a spike in demand caused by scorching summer temperatures triggered blackouts in some parts of th… [+3961 chars]"
     },
     {
-      "id": 158,
+      "id": "158",
       "author": "ET Bureau",
       "title": "Amazon urges Sebi to probe Future Retail - Economic Times",
       "description": "Amazon had challenged the deal to sell FRL assets to Reliance Industries' retail venture. The deal had fallen through after a majority of FRL's secured creditors voted against it. Prior to that, a Reliance unit had taken possession of hundreds of properties w…",
@@ -583,7 +583,7 @@
       "content": "Amazon has written to the Securities and Exchange Board of India, requesting the regulator to investigate Future Retail Ltd (FRL) for what it alleged \"material suppression\" and \"false disclosures\" by… [+1476 chars]"
     },
     {
-      "id": 159,
+      "id": "159",
       "author": "Press Trust of India",
       "title": "Oberoi groups EIH Associated Hotels chairman and director resigns - Business Standard",
       "description": "The board of directors at a meeting held on Monday appointed Shib Sanker Mukherji, who was the vice chairman, as the new chairman of the company, EIH Associated Hotels said in a regulatory filing",
@@ -593,7 +593,7 @@
       "content": "EIH Associated Hotels Ltd, a part of the Oberoi group, on Tuesday said its long-serving chairman and director Prithivraj Singh Oberoi resigned with effect from May 2, 2022 due to deteriorating health… [+3379 chars]"
     },
     {
-      "id": 160,
+      "id": "160",
       "author": "Vipul Das",
       "title": "Buy This Multibagger Textile Stock For A Target Price of Rs 570: ICICI Securities - Goodreturns",
       "description": "Gokaldas Exports Ltd., a small-cap company with a market capitalization of Rs 2,728.87 crore, is Indias largest apparel manufacturer and exporter. The companys shares have risen from Rs 89 as of May 4, 2021 to Rs 460.90 on May 2, 2022, 3:30 p.m. IST, represen…",
@@ -603,7 +603,7 @@
       "content": null
     },
     {
-      "id": 161,
+      "id": "161",
       "author": null,
       "title": "Jewellery sales worth Rs 15,000 crore recorded on Akshaya Tritiya 2022 - India Today",
       "description": "After a long gap of two years, gold and silver were in huge demand across the country. In the past two years, the bullion shops across the country were not able to do any significant business on Akshaya Tritiya.",
@@ -613,7 +613,7 @@
       "content": null
     },
     {
-      "id": 162,
+      "id": "162",
       "author": "Chhavi Kaushik",
       "title": "Top 5 SUVs Ready For Launch – Two 7-Seaters - India Car News",
       "description": "SUV segment in India is ready to witness some big launches this year. In fact, 5 new SUVs are inch closer to their launch including Jeep’s Meridian, new-generation Brezza and Scorpio, long-range Nexon EV and the Venue facelift. Here’re key details of the upco…",
@@ -623,7 +623,7 @@
       "content": "SUV segment in India is ready to witness some big launches this year. In fact, 5 new SUVs are inch closer to their launch including Jeeps Meridian, new-generation Brezza and Scorpio, long-range Nexon… [+2950 chars]"
     },
     {
-      "id": 163,
+      "id": "163",
       "author": null,
       "title": "Grocery startup Zepto, founded by 2 Indian teenagers, crosses over Rs 6,800 cr valuation - ThePrint",
       "description": "The teens, both 19, dropped out of Stanford University to return to India. The Mumbai-headquartered company reached its valuation within nine months of beginning 10-minute deliveries.",

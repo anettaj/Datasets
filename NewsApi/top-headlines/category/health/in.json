@@ -3,7 +3,7 @@
   "totalResults": 64,
   "articles": [
     {
-      "id": 31,
+      "id": "31",
       "author": "Livemint",
       "title": "Long Covid More Severe In Women Than Men, Suggests Study - Mint",
       "description": "The study found that 91% of patients, who were followed up for five months on average, continued to experience Covid-19 symptoms. Breathlessness was the most common symptom of long Covid-19, followed by fatigue",
@@ -13,7 +13,7 @@
       "content": "Post-coronavirus complications, also called long Covid syndrome, induce more symptoms in women than men, a new study has found. \r\nThe new research, published in the Journal of Women's Health, reveale… [+2402 chars]"
     },
     {
-      "id": 32,
+      "id": "32",
       "author": "Alex Reis",
       "title": "Air pollution increases risk of getting COVID-19 in young adults - The European Scientist",
       "description": "Exposure to air pollutants increases the risk of a COVID infection in young adults, according to a study published in the scientific journal JAMA Network Open.",
@@ -23,7 +23,7 @@
       "content": "Exposure to air pollutants increases the risk of a COVID infection in young adults, according to a study published in the scientific journal JAMA Network Open.\r\nAs pollutants can increase the risk of… [+2206 chars]"
     },
     {
-      "id": 33,
+      "id": "33",
       "author": "Prakash Nagarkatti and Mitzi Nagarkatti",
       "title": "Why We Can't 'Boost' Our Way Out of the COVID-19 Pandemic in the Long Term – The Wire Science - The Wire Science",
       "description": "While current vaccines are effective at preventing severe disease, the next phase of vaccine development will need to focus on triggering long-lived antibody response.",
@@ -33,7 +33,7 @@
       "content": "A woman receives a booster shot of a COVID-19 vaccine at Taipei main station, Taiwan, January 24, 2022. Photo: Reuters/Ann Wang/File Photo\r\n<ul><li>mRNA vaccines have failed to provide long-term prot… [+7979 chars]"
     },
     {
-      "id": 34,
+      "id": "34",
       "author": "Kerala Kaumudi",
       "title": "Let's manage pain, learn about 'Pain Medicine' - LIFESTYLE - GENERAL - Kerala Kaumudi ",
       "description": "Pain Medicine is a relatively new medical specialty that deals with the comprehensive management of chronic pain. Chronic pain refers to any pain condition that lasts more than 3 months.",
@@ -43,7 +43,7 @@
       "content": "What is Pain Medicine?\r\nPain Medicine is a relatively new medical specialty that deals with the comprehensive management of chronic pain. Chronic pain refers to any pain condition that lasts more tha… [+6986 chars]"
     },
     {
-      "id": 35,
+      "id": "35",
       "author": "Dr. Michael Daignault, USA TODAY",
       "title": "We've long been told salt is bad for you. Is it really? - USA TODAY",
       "description": "We've long debated how bad salt really is in our diet. Table salt, however, is not actually the problem. Sodium and processed foods are the danger.",
@@ -53,7 +53,7 @@
       "content": "For years now, we’ve continued to debate whether salt is actually “bad” for our health. And in discussing healthy diet and lifestyle choices with both my ER patients and friends alike, the common thr… [+3565 chars]"
     },
     {
-      "id": 36,
+      "id": "36",
       "author": "PTI",
       "title": "Good HDL cholesterol may keep Alzheimer's away: study - The Week",
       "description": "Having good cholesterol or high-density lipoprotein (HDL) in the body is essential to health as it may protect the brain and keep Alzheimer's disease at bay, according to a recent study. Researchers from University of Southern California's (USC) Keck School o…",
@@ -63,7 +63,7 @@
       "content": "Having good cholesterol or high-density lipoprotein (HDL) in the body is essential to health as it may protect the brain and keep Alzheimer's disease at bay, according to a recent study.\r\nResearchers… [+2926 chars]"
     },
     {
-      "id": 37,
+      "id": "37",
       "author": "TIMESOFINDIA.COM",
       "title": "CDC confirms 4 Americans got Coronavirus from Mink; here is all you need to know about the first animal-to-human transmission of COVID virus - Times of India",
       "description": "The US health agency recently revealed that a variant of COVID witnessed majorly in mink in 2020 had infected at least four Americans.",
@@ -73,7 +73,7 @@
       "content": "COVID-19 causing coronavirus belongs to a large family of viruses called coronavirus. As per the information available on the website of the CDC, some coronaviruses cause cold-like illnesses in peopl… [+728 chars]"
     },
     {
-      "id":38,
+      "id":"38",
       "author": null,
       "title": "Genetic differences can affect ability to utilize energy of various nutrients: Report - ANI News",
       "description": "Helsinki [Finland], April 21 (ANI): According to a new study by the University of Helsinki, minor genetic differences can affect the ability to utilize the energy of various nutrients.",
@@ -83,7 +83,7 @@
       "content": "ANI | Updated: Apr 21, 2022 15:59 IST\r\nHelsinki [Finland], April 21 (ANI): According to a new study by the University of Helsinki, minor genetic differences can affect the ability to utilize the ener… [+3713 chars]"
     },
     {
-      "id": 39,
+      "id": "39",
       "author": "iednewsdesk",
       "title": "Johns Hopkins University: Mediterranean-Style Diet Further Linked to Reduced Risk of Preeclampsia in Pregnant Women of All Races - India Education Diary",
       "description": "A new Johns Hopkins Medicine study that surveyed a racially diverse group of more than 8,000 women has added to evidence that following a Mediterranean-style diet could lower the risk of preeclampsia by at least 20%.Preeclampsia is a potentially leth",
@@ -93,7 +93,7 @@
       "content": "A new Johns Hopkins Medicine study that surveyed a racially diverse group of more than 8,000 women has added to evidence that following a Mediterranean-style diet could lower the risk of preeclampsia… [+4835 chars]"
     },
     {
-      "id": 310,
+      "id": "310",
       "author": "iednewsdesk",
       "title": "Johns Hopkins University: Lab Grown, Self-Sustainable Muscle Cells Repair Muscle Injury and Disease, Mouse Study Shows - India Education Diary",
       "description": "In proof-of-concept experiments, Johns Hopkins Medicine scientists say they have successfully cultivated human muscle stem cells capable of renewing themselves and repairing muscle tissue damage in mice, potentially advancing efforts to treat muscle",
@@ -103,7 +103,7 @@
       "content": "In proof-of-concept experiments, Johns Hopkins Medicine scientists say they have successfully cultivated human muscle stem cells capable of renewing themselves and repairing muscle tissue damage in m… [+4568 chars]"
     },
     {
-      "id": 311,
+      "id": "311",
       "author": "ET Online",
       "title": "Did you have pneumonia during Covid infection? You may be at a great risk of dementia, says study - Economic Times",
       "description": "Those with Covid pneumonia have higher risk of dementia than others.",
@@ -113,7 +113,7 @@
       "content": "The long term impact of Covid is truly taking a new meaning. According to a recent study conducted by the University of Missouri (MU) researchers, patients who suffered from pneumonia during their Co… [+1679 chars]"
     },
     {
-      "id": 312,
+      "id": "312",
       "author": "ET HealthWorld",
       "title": "Bacteria in urine may signal aggressive prostate cancer: Study - ETHealthWorld",
       "description": "Researchers in the UK have identified five types of bacteria in urine which may be linked to aggressive prostate cancer. The findings, published in the journal European Urology Oncology, could help pave the way for treatments that could target these particula…",
@@ -123,7 +123,7 @@
       "content": "London, Researchers in the UK have identified five types of bacteria in urine which may be linked to aggressive prostate cancer. The findings, published in the journal European Urology Oncology, coul… [+3001 chars]"
     },
     {
-      "id": 313,
+      "id": "313",
       "author": null,
       "title": "Genetically modified mosquitoes for controlling vector-borne diseases? Successful trial gives hope - Down To Earth Magazine",
       "description": "The findings were achieved after a decade of fight for public acceptance, regulatory approvals",
@@ -133,7 +133,7 @@
       "content": "The findings were achieved after a decade of fight for public acceptance, regulatory approvalsPreliminary results of an open-air study of genetically engineered mosquitoes — with an aim to suppress a… [+3671 chars]"
     },
     {
-      "id": 314,
+      "id": "314",
       "author": "Gina Kolata",
       "title": "Study finds no benefit to restricting diet by time of the day - The Irish Times",
       "description": "Research carried out in China included 139 people with obesity",
@@ -143,7 +143,7 @@
       "content": "The weight-loss idea is quite appealing: Limit your eating to a period of six to eight hours each day, during which you can have whatever you want.\r\nStudies in mice seemed to support so-called time-r… [+5057 chars]"
     },
     {
-      "id": 315,
+      "id": "315",
       "author": null,
       "title": "During Pregnancy, Inhaled Nanoparticles Can Enter the Placenta from Lungs, Cause Low Birth Weight in Babies: Study | The Weather Channel - Articles from The Weather Channel | weather.com - The Weather Channel",
       "description": "Nanoparticles are particles between 1 and 100 nanometers wide and are found in thousands of common products such as sunscreens, pharmaceuticals and sports equipment. - Articles from The Weather Channel | weather.com",
@@ -153,7 +153,7 @@
       "content": "Inhaling harmful nanoparticles during pregnancy can cause them to escape the lungs and enter the placenta, resulting in babies with low birth weights, according to a study.\r\nNanoparticles are particl… [+2335 chars]"
     },
     {
-      "id": 316,
+      "id": "316",
       "author": "TN Digital",
       "title": "Intermittent fasting is not for all, experts list health problems that could worsen on this diet - Times Now",
       "description": "Intermittent fasting decreases glucose concentration and increases fatty acid oxidation which helps the body break down stored fats.",
@@ -163,7 +163,7 @@
       "content": "As COVID-19 cases rise in Delhi, here's what experts have to say on Omicron variant, opening of schools, vaccination and more"
     },
     {
-      "id": 317,
+      "id": "317",
       "author": "Lifestyle Desk",
       "title": "Worried About Your Family’s Health Due to White Sugar? Here Are Some Amazing Healthy Alternatives - News18",
       "description": "To help you make better diet choices and yet continue enjoying the same sweetness, here are 5 healthy substitutes to processed sugar that not only make your food tasty but also have their own health benefits.",
@@ -173,7 +173,7 @@
       "content": "While sugary foods and sweets uplift our moods like nothing else, it isnt hidden from anyone that sugar is more harmful than beneficial. Excessive processed sugar consumption can cause chronic health… [+1943 chars]"
     },
     {
-      "id": 318,
+      "id": "318",
       "author": "Murali",
       "title": "Liver cancer is increasing because of unhealthy lifestyle – Mysuru Today - citytoday",
       "description": "Prime News, National, Karnataka, Health, Disease, Mysuru, April 21:- Liver cancer is rising because of an unhealthy lifestyle, said Dr M S Vishveshwara, Chief Radiation Oncologist and Medical Superint",
@@ -183,7 +183,7 @@
       "content": "Prime News, National, Karnataka, Health, Disease, Mysuru, April 21:- Liver cancer is rising because of an unhealthy lifestyle, said Dr M S Vishveshwara, Chief Radiation Oncologist and Medical Superin… [+2215 chars]"
     },
     {
-      "id": 319,
+      "id": "319",
       "author": null,
       "title": "What Diseases Can You Get From Mosquitoes? - News-Medical.Net",
       "description": "Mosquito-borne diseases are infectious diseases that are spread by the bite of infected mosquitoes carrying the pathogens.",
@@ -193,7 +193,7 @@
       "content": "IntroductionBackgroundProtective measuresDiseases by Mosquito TypeMalariaDengueYellow FeverZikaChikungunyaWest Nile VirusJapanese Encephalitis (JE)Lymphatic FilariasisReferencesFurther Reading\r\nMosqu… [+12385 chars]"
     },
     {
-      "id": 320,
+      "id": "320",
       "author": "AP",
       "title": "Puzzling outbreak of liver disease in kids spreads to EU, US - The Indian Express",
       "description": "British officials reported 74 cases of hepatitis, or liver inflammation, found in children since January.",
@@ -203,7 +203,7 @@
       "content": "Health officials say they have detected more cases of a mysterious liver disease in children that was first identified in Britain, with new infections spreading to Europe and the U.S.Last week, Briti… [+2340 chars]"
     },
     {
-      "id": 321,
+      "id": "321",
       "author": null,
       "title": "Researchers test an experimental treatment for metastatic cancer - News-Medical.Net",
       "description": "Researchers at the University of Oklahoma are testing an experimental treatment for metastatic cancer focusing on pancreatic cancer.",
@@ -213,7 +213,7 @@
       "content": "Researchers at the University of Oklahoma are testing an experimental treatment for metastatic cancer focusing on pancreatic cancer. Metastasis, the condition when cancer cells spread beyond the orig… [+3107 chars]"
     },
     {
-      "id": 322,
+      "id": "322",
       "author": null,
       "title": "Revolutionary mRNA vaccine technology: History, facts and the future - News-Medical.Net",
       "description": "mRNA vaccine technology is a field full of promise – as well as unanswered questions – for communities living with the burden of the world’s most deadly infectious diseases.",
@@ -223,7 +223,7 @@
       "content": "mRNA vaccine technology is a field full of promise – as well as unanswered questions – for communities living with the burden of the world’s most deadly infectious diseases.\r\nDespite appearances, mRN… [+7815 chars]"
     },
     {
-      "id": 323,
+      "id": "323",
       "author": "Victoria Woollaston",
       "title": "“Microbiome friendly” beauty products: Do they work? - BBC Science Focus Magazine",
       "description": "More and more hygiene products are claiming to be ‘microbiome friendly’ but how important is our skin microbiome, and can an out-of-whack bacterial community lead to conditions like eczema and dry skin?",
@@ -233,7 +233,7 @@
       "content": "At the moment were born, each of us is seeded with trillions of bacteria cells that live and thrive on our skin. These cells form whats known as our skin microbiome. The exact makeup of each persons … [+7887 chars]"
     },
     {
-      "id": 324,
+      "id": "324",
       "author": "Livemint",
       "title": "More Impactful Omicron Sublineages: Virologist Explains 3 Ways Covid Variant Is Evolving | Mint - Mint",
       "description": "Noting that Omicron emerged as three distinct lineages BA.1, BA.2 and BA.3, he said that despite the head start of BA.1, we've seen BA.2 overtake BA.1 across the world over the course of January to April.",
@@ -243,7 +243,7 @@
       "content": "With too many Omicron sub-variants circulating at the moment, eminent virologist Trevor Bedford pointed out we are likely to see more impactful sublineages of the variant in the recent future. He fur… [+2338 chars]"
     },
     {
-      "id": 325,
+      "id": "325",
       "author": "Team Newsable",
       "title": "Breakfast that can control your 'blood sugar' levels: protein to fibre-rich fruits and more - Asianet Newsable ",
       "description": "Here are some healthy breakfast options that can control your blood sugar levels; read on",
@@ -253,7 +253,7 @@
       "content": "Here are some healthy breakfast options that can control your blood sugar levels; read on\r\nMany experts recommend including all food categories in breakfast to effectively regulate sugar levels, incl… [+2148 chars]"
     },
     {
-      "id": 326,
+      "id": "326",
       "author": null,
       "title": "Antibody response to Pfizer-BioNTech COVID-19 vaccine over 6 months - News-Medical.Net",
       "description": "A new study published in PLoS ONE characterizes the antibody response to BNT162b2, the Pfizer-BioNTech COVID-19 vaccine",
@@ -263,7 +263,7 @@
       "content": "The binding responses and temporal dynamics of antibodies elicited against the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) due to vaccination must be fully understood to design futur… [+5626 chars]"
     },
     {
-      "id": 327,
+      "id": "327",
       "author": null,
       "title": "Faster accumulation of cardiovascular risk factors linked to increased dementia risk - EurekAlert",
       "description": "Cardiovascular disease risk factors, like high blood pressure, diabetes, obesity and smoking, are believed to play key roles in the likelihood of developing cognitive decline, dementia, and Alzheimer’s disease. A new study suggests that people who accumulate …",
@@ -273,7 +273,7 @@
       "content": "EMBARGOED FOR RELEASE UNTIL 4 P.M. ET, WEDNESDAY, APRIL 20, 2022\r\nMINNEAPOLIS – Cardiovascular disease risk factors, like high blood pressure, diabetes, obesity and smoking, are believed to play key … [+4962 chars]"
     },
     {
-      "id": 328,
+      "id": "328",
       "author": null,
       "title": "Four lessons from the pandemic to reboot the NIH - Nature.com",
       "description": "From innovation to workforce diversity, scientists are eager for change at the world’s largest funder of biomedical research.",
@@ -283,7 +283,7 @@
       "content": "Francis Collins retired as head of the NIH in December.Credit: Saul Loeb/Getty\r\nThe COVID-19 pandemic represented an important test for the US National Institutes of Health (NIH), the largest funder … [+11413 chars]"
     },
     {
-      "id": 329,
+      "id": "329",
       "author": "Syed Rizwan Geelani",
       "title": "Flu among school children | Experts allay COVID fears - Greater Kashmir",
       "description": null,
@@ -293,7 +293,7 @@
       "content": "Respiratory viruses like influenza and other viruses are mostly active in March and April. Every year students would fall ill in these two months and we call it seasonal flu, he said.\r\nNotably, a maj… [+463 chars]"
     },
     {
-      "id": 330,
+      "id": "330",
       "author": "Jenni Smith",
       "title": "Check out the operation of health care this Thursday (21/04) - Play Crazy Game",
       "description": "The Prefecture of Fortaleza will keep two health posts in operation this Thursday (21/04), Holiday of Tiradentes, exclusively for routine vaccination. The Paulo Marcelo and Messejana stations will be open from 7:30 am to 4:30 pm. Health posts open for routine…",
@@ -303,7 +303,7 @@
       "content": "The Prefecture of Fortaleza will keep two health posts in operation this Thursday (21/04), Holiday of Tiradentes, exclusively for routine vaccination. The Paulo Marcelo and Messejana stations will be… [+1451 chars]"
     },
     {
-      "id": 331,
+      "id": "331",
       "author": "adammeyer",
       "title": "4 Facts Doctors Need You to Know About Taking Vitamin D - The Beet",
       "description": "Here are four surprising facts about taking Vitamin D supplements that doctors want you to know, supported by research.",
@@ -313,7 +313,7 @@
       "content": "Vitamin D has been all the rage lately, and it’s easy to see why. The sunshine vitamin delivers many health benefits, such as strengthening bones, elevating your mood, and bolstering the immune syste… [+5902 chars]"
     },
     {
-      "id": 332,
+      "id": "332",
       "author": "Giuliana Grossi",
       "title": "Maternal Autoimmune Disease Linked to Higher Risk of Mental Disorders in Offspring - MD Magazine",
       "description": "Infants born to mothers with autoimmune disease had a 16% higher risk of being diagnosed with a mental disorder compared with those who were not prenatally exposed to maternal autoimmune diseases.",
@@ -323,7 +323,7 @@
       "content": "The prevalence of autoimmune disease surpasses 5% and yields a high burden. Most autoimmune diseases are more common in women during their childbearing years. \r\nMaternal immune activation during preg… [+2997 chars]"
     },
     {
-      "id": 333,
+      "id": "333",
       "author": "Pam Harrison",
       "title": "Cancer Survivors With Financial Woes Have Higher Risk of Dying - Medscape",
       "description": "Cancer survivors who experience medical financial hardship have a higher mortality risk than survivors who do not, and most of these woes are related to having no insurance or not enough insurance.",
@@ -333,7 +333,7 @@
       "content": "Cancer survivors who experience medical financial hardship have a higher risk of dying than survivors who do not experience the same hardship, concludes a study involving a nationally representative … [+4455 chars]"
     },
     {
-      "id": 334,
+      "id": "334",
       "author": "Health Desk",
       "title": "Signs and symptoms that indicate onset of Parkinson's disease and should NOT be overlooked - India TV News",
       "description": "Parkinson’s disease is a nervous system disease that affects the person’s body movement and restricts them from performing routine activities. It varies from person to person and affects their well-being.",
@@ -343,7 +343,7 @@
       "content": "Parkinsons disease is a neurological movement disorder. The disease starts slowly and worsens with time and is incurable. People start facing this problem because there is an area of the brain called… [+3132 chars]"
     },
     {
-      "id": 335,
+      "id": "335",
       "author": "https://www.facebook.com/WebMD",
       "title": "Over Half of American Parents Give Their Picky Eaters Supplements - WebMD",
       "description": "From a new poll, about one-third of parents said their child is a picky eater and one-third didn't think their children eat enough fruits and vegetables.",
@@ -353,7 +353,7 @@
       "content": "By Robert Preidt HealthDay ReporterHealthDay Reporter\r\nWEDNESDAY, April 20, 2022 (HealthDay News) -- If your child is a picky eater and you feel you need to give them dietary supplements, you're not … [+2498 chars]"
     },
     {
-      "id": 336,
+      "id": "336",
       "author": "Megan Brooks",
       "title": "Parents' Cancer Can Have 'Devastating Effects' on Children - Medscape",
       "description": "Children of patients with cancer experience a variety of physical, mental, and financial challenges, and need more support than the healthcare system currently provides.",
@@ -363,7 +363,7 @@
       "content": "When a parent develops cancer, children and adolescents are more likely to miss school, visit emergency departments, and experience negative mental health consequences, a new study shows.\r\n\"Everyone … [+3633 chars]"
     },
     {
-      "id": 337,
+      "id": "337",
       "author": "https://www.facebook.com/verywell",
       "title": "Paralysis: Symptoms, Causes, and Treatment - Verywell Health",
       "description": "Paralysis is weakness of part of the body, and it usually signals serious damage to the brain, spinal cord, or nerves of the body.",
@@ -373,7 +373,7 @@
       "content": "Paralysis describes complete or partial weakness of the body or part of the body. It can occur suddenly or gradually as a result of conditions that affect the brain, spinal cord, or nerves.\r\nIf you o… [+7358 chars]"
     },
     {
-      "id": 338,
+      "id": "338",
       "author": "Team Newsable",
       "title": "Healthy tips to take care this summer for people with diabetes - Asianet Newsable ",
       "description": "Extreme heat can dehydrate the body quickly in diabetic people. A balanced diet can cool it down effectively.",
@@ -383,7 +383,7 @@
       "content": "Extreme heat can dehydrate the body quickly in diabetic people. A balanced diet can cool it down effectively. Here's an alert for people with diabetes, the scorching heat dehydrates more easily and q… [+3149 chars]"
     },
     {
-      "id": 339,
+      "id": "339",
       "author": "ANI",
       "title": "Study finds cellular exosomes could improve the delivery of anticancer drugs to tumours - Devdiscourse",
       "description": "According to a new study, exosomes, or small bubbles that transport molecules from one cell to another, can be effective vehicles for delivering cancer treatments to tumours.",
@@ -403,7 +403,7 @@
       "content": "According to a research article published recently in eLife, researchers have discovered a mechanism that highlights how fine air pollution particles may lead to lung cancer. \r\nInhaled fine particula… [+4282 chars]"
     },
     {
-      "id": 341,
+      "id": "341",
       "author": "Anadolu Agency",
       "title": "Turkish Gastroenterology marks irritable bowel syndrome month | Daily Sabah - Daily Sabah",
       "description": "Irritable bowel syndrome is a condition that affects around 10% of people around the world. So, when Turkish Gastroenterology Association made a statement...",
@@ -413,7 +413,7 @@
       "content": "Irritable bowel syndrome is a condition that affects around 10% of people around the world. So, when Turkish Gastroenterology Association made a statement about the syndrome and its treatment as part… [+1852 chars]"
     },
     {
-      "id": 342,
+      "id": "342",
       "author": "PTI",
       "title": "ICMR study shows immune evasion potential of Omicron post natural infection, vaccination - The Week",
       "description": "People infected with Delta variant of SARS-CoV-2 remain susceptible to Omicron which proves the latter's immune evasion potential post natural infection and vaccination, a new ICMR study has shown. In the study done on a healthcare professional infected durin…",
@@ -423,7 +423,7 @@
       "content": "People infected with Delta variant of SARS-CoV-2 remain susceptible to Omicron which proves the latter's immune evasion potential post natural infection and vaccination, a new ICMR study has shown.\r\n… [+4487 chars]"
     },
     {
-      "id": 343,
+      "id": "343",
       "author": "RJ Frometa",
       "title": "Top Vitamin C sources in our daily routine - - VENTS Magazine",
       "description": "Your daily dose of Vitamin C can fix everything! Vitamin C has gained much attention in today’s world for its magical properties. Be it immunity enhancement, glowing skin or protection against disease",
@@ -433,7 +433,7 @@
       "content": "Your daily dose of Vitamin C can fix everything!\r\nVitamin C has gained much attention in todays world for its magical properties. Be it immunity enhancement, glowing skin or protection against diseas… [+6507 chars]"
     },
     {
-      "id": 344,
+      "id": "344",
       "author": "DoctorNDTV",
       "title": "Iron deficiency: What to Eat, What To Avoid & How To Exercise - NDTV Doctor",
       "description": "Here's a guide on how to live with anaemia. What foods to eat, what foods to avoid & how to exercise.",
@@ -443,7 +443,7 @@
       "content": "Iron deficiency is more common than you may think. Iron deficiency is caused by a lack of iron in the body. If you don't have enough iron in your body, your body might not make enough hemoglobin in r… [+3858 chars]"
     },
     {
-      "id": 345,
+      "id": "345",
       "author": "Alexandru Micu",
       "title": "Excessive weight can almost double the risk of developing endometrial cancer — and we’re pinpointing why - ZME Science",
       "description": "A healthy, balanced diet and active lifestyle can help drastically reduce the risk of a womb cancer diagnosis.",
@@ -453,7 +453,7 @@
       "content": "Excessive weight can significantly contribute to a woman’s chances of developing womb cancer. A new paper places the increased risk per extra body mass index (BMI) unit at twice that of previous esti… [+4537 chars]"
     },
     {
-      "id": 346,
+      "id": "346",
       "author": null,
       "title": "Infertility history linked with increased risk of heart failure: Study - DNA India",
       "description": "Infertility history linked with increased risk of heart failure: Study - A new study finds that a history of infertility is associated with an increased risk of heart failure. Published in the Journal of the American College of Cardiology, researchers from Ma…",
@@ -463,7 +463,7 @@
       "content": null
     },
     {
-      "id": 347,
+      "id": "347",
       "author": "ANI",
       "title": "Study finds male sex hormones as new target for cancer immunotherapy - Telangana Today",
       "description": "Study finds male sex hormones as new target for cancer immunotherapy",
@@ -473,7 +473,7 @@
       "content": null
     },
     {
-      "id": 348,
+      "id": "348",
       "author": "Jenni Smith",
       "title": "Jaicós registers 63 cases of chikungunya and dengue and the secretariat alerts the population to care – Ci ... - Play Crazy Game",
       "description": "The state of Piauí showed a growth of 489.3% in dengue cases, compared to the same period in 2021. The numbers of Chikungunya also increased by 3,009.5% compared to the same period last year. The data are from the bulletin of the 13th Epidemiological Week of …",
@@ -483,7 +483,7 @@
       "content": "The state of Piauí showed a growth of 489.3% in dengue cases, compared to the same period in 2021. The numbers of Chikungunya also increased by 3,009.5% compared to the same period last year. The dat… [+4604 chars]"
     },
     {
-      "id": 349,
+      "id": "349",
       "author": null,
       "title": "Multiple Sclerosis and Autoimmunity: A Veiled Relationship - Cureus",
       "description": "Multiple sclerosis (MS) is an autoimmune inflammatory illness that affects the central nervous system (CNS) when the body's immune system attacks its tissue. It is characterized by demyelination and varying degrees of axonal loss. This article has compiled va…",
@@ -493,7 +493,7 @@
       "content": "Multiple sclerosis (MS) is an autoimmune inflammatory disorder of the central nervous system (CNS) characterized by demyelination and variable degrees of axonal loss. Jean-Martin Charcot (1825-1893),… [+29731 chars]"
     },
     {
-      "id": 350,
+      "id": "350",
       "author": null,
       "title": "Bioengineers visualize fat storage in fruit flies - EurekAlert",
       "description": "For the first time, researchers have visually monitored, in high resolution, the timing and location of fat storage within the intact cells of fruit flies. The new optical imaging tool from the lab of bioengineering professor Lingyan Shi at the University of …",
@@ -503,7 +503,7 @@
       "content": "image: In this graphic, the images represent lipid metabolism in fruit flies fed different diets. The color coding tracks different rates of lipid turnover. White areas, for example, are labeled at \"… [+6393 chars]"
     },
     {
-      "id": 351,
+      "id": "351",
       "author": null,
       "title": "8 Tips To Keep Your Immune System Healthy With COVID-19 - MedicineNet",
       "description": "Strong immunity is pivotal for the prevention and complete recovery from COVID-19. Here are eight tips to boost your immunity and reduce your risk of serious COVID-19 illness.",
@@ -513,7 +513,7 @@
       "content": "The immune system helps prevent and recover from various infections and diseases. Strong immunity is pivotal for the prevention and complete recovery from COVID-19.\r\nCOVID-19 (also called coronavirus… [+615 chars]"
     },
     {
-      "id": 352,
+      "id": "352",
       "author": "Richa Barua",
       "title": "Do you have fatty liver? Know how this disease may result in insulin resistance - Asianet Newsable ",
       "description": "We spoke to Dr. Rajiv Lochan J, Lead Consultant - HPB and Liver Transplantation Surgery, Manipal Hospital Old Airport Road, Bengaluru who talked about how fatty liver disease causes insulin resistance?",
@@ -523,7 +523,7 @@
       "content": "We spoke to Dr. Rajiv Lochan J, Lead Consultant - HPB and Liver Transplantation Surgery, Manipal Hospital Old Airport Road, Bengaluru who talked about how fatty liver disease causes insulin resistanc… [+4048 chars]"
     },
     {
-      "id": 353,
+      "id": "353",
       "author": "Deepa Kannan",
       "title": "Everything you need to know about cholesterol - YourStory",
       "description": "The health of our liver is key to how we understand cholesterol. Anyone whose diet is prominently starch, sugar, and grain, which is the bulk of Indian meals in many homes, will have poor liver health, and therefore, elevated lipid markers.",
@@ -533,7 +533,7 @@
       "content": "While the cholesterol conversation is a deep one, there are a few strong points that we must always consider. \r\nThe first point is what can we discover about the health of key systems within our body… [+8262 chars]"
     },
     {
-      "id": 354,
+      "id": "354",
       "author": "Radifah Kabir",
       "title": "Chances Of Covid-19 Breakthrough Infection May Depend On Mental Health: Study - ABP Live",
       "description": "People who are vaccinated against SARS-CoV-2, and have a certain history of psychiatric conditions, have an increased risk of contracting Covid-19, a new study has found.",
@@ -543,7 +543,7 @@
       "content": "New Delhi: People who are vaccinated against SARS-CoV-2, and have a certain history of psychiatric conditions, have an increased risk of contracting Covid-19, a new study has found. The finding may b… [+5561 chars]"
     },
     {
-      "id": 355,
+      "id": "355",
       "author": null,
       "title": "COVID infection linked to increased diabetes risk - Click On Detroit | Local 4 | WDIV",
       "description": "Study shows that patients who had COVID-19 were 40% more likely to develop diabetes in the following 12 months.",
@@ -553,7 +553,7 @@
       "content": null
     },
     {
-      "id": 356,
+      "id": "356",
       "author": "Cornelius",
       "title": "Why the decision of the Ministry of Health affects Emergency Aid - The Goa Spotlight",
       "description": "At this point, a possible return of Emergency Aid payments becomes a slightly more distant possibility. This Monday (18), the Minister of Health, Marcelo Queiroga, announced that Brazil will leave the",
@@ -563,7 +563,7 @@
       "content": "At this point, a possible return of Emergency Aid payments becomes a slightly more distant possibility. This Monday (18), the Minister of Health, Marcelo Queiroga, announced that Brazil will leave th… [+2915 chars]"
     },
     {
-      "id": 357,
+      "id": "357",
       "author": "GK NEWS NETWORK",
       "title": "Deadly Rift valley virus infects human cells, finds US- based Kashmiri virologist - Greater Kashmir",
       "description": null,
@@ -573,7 +573,7 @@
       "content": "To find out how the virus invades cells, Dr Ganaie and his team disrupted 20,000 normal genes by using CRISPR technology and found that the virus failed to infect cells that lacked the gene for LDL r… [+693 chars]"
     },
     {
-      "id": 358,
+      "id": "358",
       "author": "Adam Rowden",
       "title": "Can arthritis be reversed? - Medical News Today",
       "description": "A person cannot reverse arthritis, but they can manage their symptoms with lifestyle changes and medication. Learn about the symptoms and treatment of arthritis.",
@@ -583,7 +583,7 @@
       "content": "A person cannot reverse arthritis, but they can manage their symptoms. Arthritis commonly causes joint inflammation with swelling, pain, stiffness, and decreased range of motion.\r\nAccording to the Ar… [+9465 chars]"
     },
     {
-      "id": 359,
+      "id": "359",
       "author": null,
       "title": "Wearables can identify changes in physiological systems during COVID-19 disease progression - News-Medical.Net",
       "description": "If you become ill with COVID-19, your smartwatch can track the progression of your symptoms, and could even show how sick you become.",
@@ -593,7 +593,7 @@
       "content": "If you become ill with COVID-19, your smartwatch can track the progression of your symptoms, and could even show how sick you become.\r\nThat’s according to a University of Michigan study that examined… [+6656 chars]"
     },
     {
-      "id": 360,
+      "id": "360",
       "author": "Jack Dunhill",
       "title": "New Device Uses Cerenkov Light To Illuminate Cancer - IFLScience",
       "description": "A special type of light commonly emitted from nuclear reactors could be a low-cost, reliable method at pinpointing tumors within the body, according to new",
@@ -603,7 +603,7 @@
       "content": "A special type of light commonly emitted from nuclear reactors could be a low-cost, reliable method at pinpointing tumors within the body, according to new research published in Nature Biomedical Eng… [+2475 chars]"
     },
     {
-      "id": 361,
+      "id": "361",
       "author": "Ashley Zlatopolsky",
       "title": "Chronic Ankylosing Spondylitis Pain and Mental Health - Healthline",
       "description": "Living with a chronic condition like ankylosing spondylitis has an effect on your mental health. Learn more about the connections and tips for management here.",
@@ -613,7 +613,7 @@
       "content": "Ankylosing spondylitis, or AS, can have a deeper effect beyond just the physical. \r\nWhile this rheumatic disorder causes fatigue, impaired physical functioning, and pain in the neck, hips, and back, … [+5544 chars]"
     },
     {
-      "id": 362,
+      "id": "362",
       "author": null,
       "title": "Trajectories of depressive symptoms in older adults and associated health outcomes - Nature.com",
       "description": "This study investigated trajectories of depressive symptoms associated with several health conditions using a sample of over 19,000 older adults. The presence of depressive symptoms was associated with poor health prognosis and increased mortality.",
@@ -623,7 +623,7 @@
       "content": "<li>Moussavi, S. et al. Depression, chronic diseases, and decrements in health: results from the World Health Surveys. Lancet370, 851858 (2007).\r\nArticle \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Wei, J.… [+10558 chars]"
     },
     {
-      "id": 363,
+      "id": "363",
       "author": "Parmita Uniyal",
       "title": "Harmful habits that are damaging your liver - Hindustan Times",
       "description": "From eating too much sugar to not drinking enough water, an expert on harmful habits that you must get rid of to prevent your liver from damage.",
@@ -633,7 +633,7 @@
       "content": null
     },
     {
-      "id": 364,
+      "id": "364",
       "author": "Grace Gallagher",
       "title": "Steroids for the Short-Term Treatment of Ulcerative Colitis - Healthline",
       "description": "Steroids can get a bad rap, but they're incredibly valuable tools used to treat autoimmune diseases. Let's discuss how they can help those with ulcerative colitis.",
