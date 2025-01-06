@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736148210/recepies/Spaghetti_Carbonara_eg9sfk.png",
+        "imageUrl": "https://anettaj.in/Datasets/RecipesApi/Assets/Spaghetti_Carbonara_eg9sfk.png",
         "name": "Spaghetti Carbonara",
         "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper. It's rich, creamy, and indulgent, perfect for any occasion.",
         "ingredients": [
@@ -70,7 +70,7 @@
       
       {
         "id": "2",
-        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736149382/recepies/Caesar_Salad_p1muuh.png",
+        "imageUrl": "https://anettaj.in/Datasets/RecipesApi/Assets/Caesar_Salad_p1muuh.png",
         "name": "Caesar Salad",
         "description": "A crisp and refreshing salad with romaine lettuce, croutons, Parmesan cheese, and a creamy Caesar dressing. It's a perfect side dish or light meal.",
         "ingredients": [
@@ -138,7 +138,7 @@
       
       {
         "id": "3",
-        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736149855/recepies/Butter_Chicken_pvkrgb.png",
+        "imageUrl": "https://anettaj.in/Datasets/RecipesApi/Assets/Butter_Chicken_pvkrgb.png",
         "name": "Butter Chicken",
         "description": "A rich and creamy chicken curry with a perfect blend of spices, tomatoes, and butter. This classic Indian dish is known for its smooth texture and indulgent flavor.",
         "ingredients": [
@@ -224,7 +224,7 @@
       
       {
         "id": "4",
-        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736150277/recepies/pancakes_sjwghq.png",
+        "imageUrl": "https://anettaj.in/Datasets/RecipesApi/Assets/pancakes_sjwghq.png",
         "name": "Pancakes",
         "description": "Fluffy and light pancakes, perfect for a delicious breakfast. Serve them with syrup, fruits, or your favorite toppings for an indulgent start to your day.",
         "ingredients": [
@@ -302,7 +302,7 @@
       
       {
         "id": "5",
-        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736150559/recepies/Vegetable_Stir_Fry_xjsgn5.png",
+        "imageUrl": "https://anettaj.in/Datasets/RecipesApi/Assets/Vegetable_Stir_Fry_xjsgn5.png",
         "name": "Vegetable Stir Fry",
         "description": "A quick and healthy vegetable stir-fry with a delicious sauce that perfectly coats crunchy vegetables. Ideal as a side dish or served over rice or noodles for a light meal.",
         "ingredients": [
@@ -375,7 +375,7 @@
       
       {
         "id": "6",
-        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736150686/recepies/Tacos_lfmwha.png",
+        "imageUrl": "https://anettaj.in/Datasets/RecipesApi/Assets/Tacos_lfmwha.png",
         "name": "Tacos",
         "description": "A classic and flavorful taco recipe with seasoned ground beef, fresh toppings, and crispy taco shells. Perfect for a quick and satisfying snack or meal.",
         "ingredients": [
@@ -448,7 +448,7 @@
       
       {
         "id": "7",
-        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736151434/recepies/Tomato_Basil_Soup_eumzrb.png",
+        "imageUrl": "https://anettaj.in/Datasets/RecipesApi/Assets/Tomato_Basil_Soup_eumzrb.png",
         "name": "Tomato Basil Soup",
         "description": "A warm, comforting tomato soup enriched with fresh basil and a touch of cream, perfect for a cozy meal or appetizer.",
         "ingredients": [
