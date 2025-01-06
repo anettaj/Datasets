@@ -1,0 +1,527 @@
+[
+    {
+        "id": "1",
+        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736148210/recepies/Spaghetti_Carbonara_eg9sfk.png",
+        "name": "Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper. It's rich, creamy, and indulgent, perfect for any occasion.",
+        "ingredients": [
+          {
+            "ingredient": "200g spaghetti",
+            "description": "Use high-quality pasta for the best texture."
+          },
+          {
+            "ingredient": "100g pancetta",
+            "description": "Choose good quality pancetta for a flavorful and crispy texture."
+          },
+          {
+            "ingredient": "2 large eggs",
+            "description": "Fresh eggs will give the sauce a creamy consistency."
+          },
+          {
+            "ingredient": "50g Parmesan cheese",
+            "description": "Grated Parmesan adds a sharp, nutty flavor to the dish."
+          },
+          {
+            "ingredient": "2 cloves garlic",
+            "description": "Garlic infuses the oil with a subtle flavor to complement the pancetta."
+          },
+          {
+            "ingredient": "Salt",
+            "description": "Season to taste."
+          },
+          {
+            "ingredient": "Black pepper",
+            "description": "Freshly ground black pepper adds the final seasoning touch."
+          }
+        ],
+        "rating": 4.8,
+        "steps": [
+          "Boil water in a large pot and cook spaghetti until al dente.",
+          "Fry pancetta in a skillet until crispy. Remove and set aside.",
+          "Whisk eggs and Parmesan in a bowl. Season with salt and pepper.",
+          "Toss cooked spaghetti with pancetta and garlic in the skillet.",
+          "Remove from heat and quickly mix in the egg mixture.",
+          "Serve immediately with extra Parmesan."
+        ],
+        "time": "25 minutes",
+        "type": "Main Course",
+        "category": "Italian",
+        "difficulty": "Medium",
+        "servingSize": "2 servings",
+        "nutrition": {
+          "calories": "650",
+          "fat": "35g",
+          "protein": "30g",
+          "carbs": "60g",
+          "fiber": "3g"
+        },
+        "equipment": [
+          "Large pot for boiling pasta",
+          "Skillet for frying pancetta",
+          "Whisk for egg mixture",
+          "Large serving bowl for mixing"
+        ],
+        "storage": {
+          "instructions": "Store leftovers in an airtight container in the fridge for up to 2 days. Reheat gently on low heat to avoid curdling the sauce.",
+          "freezable": false
+        },
+        "occasion": "Perfect for a quick weeknight dinner or a special weekend meal."
+      },
+      
+      {
+        "id": "2",
+        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736149382/recepies/Caesar_Salad_p1muuh.png",
+        "name": "Caesar Salad",
+        "description": "A crisp and refreshing salad with romaine lettuce, croutons, Parmesan cheese, and a creamy Caesar dressing. It's a perfect side dish or light meal.",
+        "ingredients": [
+          {
+            "ingredient": "1 head romaine lettuce",
+            "description": "Fresh and crunchy romaine lettuce forms the base of the salad."
+          },
+          {
+            "ingredient": "1/2 cup croutons",
+            "description": "Crunchy croutons add texture and flavor to the salad."
+          },
+          {
+            "ingredient": "1/4 cup Parmesan cheese",
+            "description": "Freshly grated Parmesan cheese enhances the creamy and salty flavor."
+          },
+          {
+            "ingredient": "1/3 cup Caesar dressing",
+            "description": "A creamy Caesar dressing with anchovies, garlic, and Parmesan adds richness to the salad."
+          },
+          {
+            "ingredient": "2 anchovy fillets (optional)",
+            "description": "Anchovies add an authentic, umami-rich flavor to the dressing."
+          },
+          {
+            "ingredient": "1 clove garlic",
+            "description": "Fresh garlic enhances the flavor of the dressing."
+          },
+          {
+            "ingredient": "Black pepper",
+            "description": "Freshly ground black pepper for seasoning."
+          }
+        ],
+        "rating": 4.6,
+        "steps": [
+          "Wash and chop romaine lettuce into bite-sized pieces.",
+          "Mix anchovies and garlic into the Caesar dressing (optional).",
+          "In a large bowl, toss lettuce with dressing.",
+          "Add croutons and Parmesan cheese.",
+          "Season with black pepper and serve immediately."
+        ],
+        "time": "15 minutes",
+        "type": "Salad",
+        "category": "American",
+        "difficulty": "Easy",
+        "servingSize": "2-4 servings",
+        "nutrition": {
+          "calories": "300",
+          "fat": "20g",
+          "protein": "8g",
+          "carbs": "15g",
+          "fiber": "4g"
+        },
+        "equipment": [
+          "Large bowl for mixing",
+          "Knife and cutting board for chopping lettuce",
+          "Garlic press (optional)",
+          "Tongs or salad servers"
+        ],
+        "storage": {
+          "instructions": "Store any leftover salad separately from the dressing in an airtight container in the fridge for up to 1 day.",
+          "freezable": false
+        },
+        "occasion": "Perfect for a light lunch, dinner, or as a side dish for any meal."
+      },
+      
+      {
+        "id": "3",
+        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736149855/recepies/Butter_Chicken_pvkrgb.png",
+        "name": "Butter Chicken",
+        "description": "A rich and creamy chicken curry with a perfect blend of spices, tomatoes, and butter. This classic Indian dish is known for its smooth texture and indulgent flavor.",
+        "ingredients": [
+          {
+            "ingredient": "500g chicken breast",
+            "description": "Boneless, skinless chicken breast is tender and soaks up the flavorful sauce."
+          },
+          {
+            "ingredient": "2 cups tomato puree",
+            "description": "Tomato puree creates a rich base for the curry sauce."
+          },
+          {
+            "ingredient": "1 cup heavy cream",
+            "description": "Heavy cream adds a smooth, rich texture to the sauce."
+          },
+          {
+            "ingredient": "2 tbsp butter",
+            "description": "Butter enhances the creamy texture and adds richness to the sauce."
+          },
+          {
+            "ingredient": "1 onion",
+            "description": "Onion, sautéed to golden perfection, provides a savory base flavor."
+          },
+          {
+            "ingredient": "2 cloves garlic",
+            "description": "Garlic adds depth and aroma to the dish."
+          },
+          {
+            "ingredient": "1 tsp garam masala",
+            "description": "Garam masala is a blend of spices that gives the dish its signature warm flavor."
+          },
+          {
+            "ingredient": "1 tsp turmeric",
+            "description": "Turmeric adds a beautiful golden color and earthy flavor."
+          },
+          {
+            "ingredient": "1 tsp chili powder",
+            "description": "Chili powder gives the dish a mild to medium heat."
+          },
+          {
+            "ingredient": "Salt",
+            "description": "Salt is added to taste to bring out the flavors of the dish."
+          },
+          {
+            "ingredient": "Cilantro for garnish",
+            "description": "Fresh cilantro adds a burst of color and a refreshing taste to the dish."
+          }
+        ],
+        "rating": 4.9,
+        "steps": [
+          "Marinate chicken with turmeric, chili powder, and salt for 30 minutes.",
+          "Sauté onions and garlic in butter until golden.",
+          "Add tomato puree, garam masala, and simmer for 10 minutes.",
+          "Cook chicken in a separate pan until golden.",
+          "Combine chicken with the sauce and simmer for 15 minutes.",
+          "Stir in heavy cream and garnish with cilantro before serving."
+        ],
+        "time": "45 minutes",
+        "type": "Main Course",
+        "category": "Indian",
+        "difficulty": "Medium",
+        "servingSize": "4 servings",
+        "nutrition": {
+          "calories": "550",
+          "fat": "35g",
+          "protein": "40g",
+          "carbs": "15g",
+          "fiber": "2g"
+        },
+        "equipment": [
+          "Large mixing bowl for marinating chicken",
+          "Skillet or frying pan for cooking chicken",
+          "Large saucepan for making the curry sauce",
+          "Wooden spoon for stirring",
+          "Knife and cutting board for chopping onions and garlic"
+        ],
+        "storage": {
+          "instructions": "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat gently on low heat or in the microwave.",
+          "freezable": true
+        },
+        "occasion": "Perfect for a cozy dinner, family gathering, or special occasion."
+      },
+      
+      {
+        "id": "4",
+        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736150277/recepies/pancakes_sjwghq.png",
+        "name": "Pancakes",
+        "description": "Fluffy and light pancakes, perfect for a delicious breakfast. Serve them with syrup, fruits, or your favorite toppings for an indulgent start to your day.",
+        "ingredients": [
+          {
+            "ingredient": "1 cup all-purpose flour",
+            "description": "All-purpose flour forms the base for light and fluffy pancakes."
+          },
+          {
+            "ingredient": "1 tbsp sugar",
+            "description": "Sugar sweetens the pancakes and gives them a golden-brown color when cooked."
+          },
+          {
+            "ingredient": "1 tsp baking powder",
+            "description": "Baking powder helps the pancakes rise and become fluffy."
+          },
+          {
+            "ingredient": "1/2 tsp baking soda",
+            "description": "Baking soda reacts with the acid in buttermilk to help the pancakes rise."
+          },
+          {
+            "ingredient": "1/2 tsp salt",
+            "description": "Salt enhances the flavor of the pancakes."
+          },
+          {
+            "ingredient": "1 cup buttermilk",
+            "description": "Buttermilk adds a tangy flavor and helps create a tender texture in the pancakes."
+          },
+          {
+            "ingredient": "1 large egg",
+            "description": "The egg helps bind the ingredients together and provides structure."
+          },
+          {
+            "ingredient": "2 tbsp melted butter",
+            "description": "Melted butter adds richness and flavor to the pancakes."
+          },
+          {
+            "ingredient": "Butter for cooking",
+            "description": "Butter is used to grease the skillet and add flavor while cooking the pancakes."
+          }
+        ],
+        "rating": 4.7,
+        "steps": [
+          "Mix dry ingredients in a bowl: flour, sugar, baking powder, baking soda, and salt.",
+          "In another bowl, whisk buttermilk, egg, and melted butter.",
+          "Combine wet and dry ingredients and stir until just mixed.",
+          "Heat a non-stick skillet and add butter.",
+          "Pour batter onto the skillet and cook until bubbles form.",
+          "Flip and cook until golden. Serve with syrup."
+        ],
+        "time": "20 minutes",
+        "type": "Breakfast",
+        "category": "American",
+        "difficulty": "Easy",
+        "servingSize": "2-4 servings",
+        "nutrition": {
+          "calories": "250",
+          "fat": "10g",
+          "protein": "6g",
+          "carbs": "35g",
+          "fiber": "1g"
+        },
+        "equipment": [
+          "Mixing bowls",
+          "Whisk for combining wet ingredients",
+          "Non-stick skillet for cooking",
+          "Spatula for flipping pancakes",
+          "Measuring cups and spoons"
+        ],
+        "storage": {
+          "instructions": "Store leftover pancakes in an airtight container in the fridge for up to 2 days. Reheat in the microwave or on a skillet.",
+          "freezable": true
+        },
+        "occasion": "Perfect for breakfast or brunch, and can be enjoyed with various toppings such as syrup, berries, or whipped cream."
+      },
+      
+      {
+        "id": "5",
+        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736150559/recepies/Vegetable_Stir_Fry_xjsgn5.png",
+        "name": "Vegetable Stir Fry",
+        "description": "A quick and healthy vegetable stir-fry with a delicious sauce that perfectly coats crunchy vegetables. Ideal as a side dish or served over rice or noodles for a light meal.",
+        "ingredients": [
+          {
+            "ingredient": "1 cup broccoli florets",
+            "description": "Broccoli florets add a healthy crunch and rich flavor to the dish."
+          },
+          {
+            "ingredient": "1 cup sliced carrots",
+            "description": "Sliced carrots bring sweetness and vibrant color to the stir-fry."
+          },
+          {
+            "ingredient": "1 cup bell peppers",
+            "description": "Bell peppers contribute a mild sweetness and beautiful color to the dish."
+          },
+          {
+            "ingredient": "2 cloves garlic",
+            "description": "Garlic adds depth of flavor and aroma to the stir-fry."
+          },
+          {
+            "ingredient": "2 tbsp soy sauce",
+            "description": "Soy sauce provides a savory umami flavor that ties the dish together."
+          },
+          {
+            "ingredient": "1 tbsp sesame oil",
+            "description": "Sesame oil adds a distinct, nutty flavor and helps enhance the stir-fry."
+          },
+          {
+            "ingredient": "1 tsp cornstarch",
+            "description": "Cornstarch thickens the sauce, making it perfect for coating the vegetables."
+          },
+          {
+            "ingredient": "1/2 cup vegetable broth",
+            "description": "Vegetable broth adds a rich and savory base for the stir-fry sauce."
+          }
+        ],
+        "rating": 4.5,
+        "steps": [
+          "Chop vegetables into bite-sized pieces.",
+          "Mix soy sauce, sesame oil, and cornstarch with vegetable broth.",
+          "Stir-fry garlic in a hot wok for 1 minute.",
+          "Add vegetables and stir-fry for 5 minutes.",
+          "Pour in the sauce and cook until thickened.",
+          "Serve over rice or noodles."
+        ],
+        "time": "20 minutes",
+        "type": "Side Dish",
+        "category": "Asian",
+        "difficulty": "Easy",
+        "servingSize": "4 servings",
+        "nutrition": {
+          "calories": "150",
+          "fat": "8g",
+          "protein": "3g",
+          "carbs": "20g",
+          "fiber": "5g"
+        },
+        "equipment": [
+          "Wok or large frying pan",
+          "Chopping board and knife",
+          "Measuring spoons and cups",
+          "Stirring spoon or spatula"
+        ],
+        "storage": {
+          "instructions": "Store leftovers in an airtight container in the fridge for up to 2 days. Reheat in the microwave or on the stove with a splash of water.",
+          "freezable": false
+        },
+        "occasion": "Perfect for a quick weeknight dinner or as a healthy side dish to accompany your main course."
+      },
+      
+      {
+        "id": "6",
+        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736150686/recepies/Tacos_lfmwha.png",
+        "name": "Tacos",
+        "description": "A classic and flavorful taco recipe with seasoned ground beef, fresh toppings, and crispy taco shells. Perfect for a quick and satisfying snack or meal.",
+        "ingredients": [
+          {
+            "ingredient": "8 taco shells",
+            "description": "Taco shells are the base of the dish, providing a crunchy texture and holding the fillings together."
+          },
+          {
+            "ingredient": "500g ground beef",
+            "description": "Ground beef is seasoned and cooked to create a savory filling for the tacos."
+          },
+          {
+            "ingredient": "1 onion, chopped",
+            "description": "Onion adds sweetness and depth of flavor to the beef mixture."
+          },
+          {
+            "ingredient": "2 cloves garlic, minced",
+            "description": "Garlic enhances the flavor of the beef and adds aromatic richness."
+          },
+          {
+            "ingredient": "1 tbsp taco seasoning",
+            "description": "Taco seasoning gives the beef its signature savory, spicy, and slightly smoky flavor."
+          },
+          {
+            "ingredient": "1 cup shredded lettuce",
+            "description": "Shredded lettuce provides a crisp, fresh contrast to the seasoned beef."
+          },
+          {
+            "ingredient": "1 cup grated cheese",
+            "description": "Grated cheese adds a creamy, melty layer to each taco."
+          },
+          {
+            "ingredient": "1/2 cup salsa",
+            "description": "Salsa adds tanginess and a burst of flavor, making the tacos even more delicious."
+          }
+        ],
+        "rating": 4.8,
+        "steps": [
+          "Cook ground beef in a skillet until browned.",
+          "Add onion, garlic, and taco seasoning. Cook for 5 more minutes.",
+          "Warm taco shells in the oven or microwave.",
+          "Fill each shell with beef mixture, lettuce, cheese, and salsa.",
+          "Serve immediately."
+        ],
+        "time": "30 minutes",
+        "type": "Snack",
+        "category": "Mexican",
+        "difficulty": "Easy",
+        "servingSize": "4 servings",
+        "nutrition": {
+          "calories": "300",
+          "fat": "20g",
+          "protein": "22g",
+          "carbs": "12g",
+          "fiber": "2g"
+        },
+        "equipment": [
+          "Skillet for cooking the beef",
+          "Chopping board and knife for chopping vegetables",
+          "Spoon or spatula for stirring the beef",
+          "Tongs or oven mitts for warming taco shells",
+          "Grater for cheese"
+        ],
+        "storage": {
+          "instructions": "Store leftovers in an airtight container in the fridge for up to 2 days. Reheat the beef mixture in the microwave or on the stove.",
+          "freezable": false
+        },
+        "occasion": "Perfect for a quick snack, a casual gathering, or as a fun and customizable meal for family or friends."
+      },
+      
+      {
+        "id": "7",
+        "imageUrl": "https://res.cloudinary.com/dljwalapq/image/upload/v1736151434/recepies/Tomato_Basil_Soup_eumzrb.png",
+        "name": "Tomato Basil Soup",
+        "description": "A warm, comforting tomato soup enriched with fresh basil and a touch of cream, perfect for a cozy meal or appetizer.",
+        "ingredients": [
+          {
+            "ingredient": "2 cups canned tomatoes",
+            "description": "Canned tomatoes form the base of the soup, providing a rich, tangy flavor."
+          },
+          {
+            "ingredient": "1 cup vegetable broth",
+            "description": "Vegetable broth adds depth to the soup's flavor without overpowering the tomato."
+          },
+          {
+            "ingredient": "1/2 cup heavy cream",
+            "description": "Heavy cream adds richness and smoothness, making the soup creamy and velvety."
+          },
+          {
+            "ingredient": "1 onion, chopped",
+            "description": "Onion brings sweetness and depth to the soup, balancing the acidity of the tomatoes."
+          },
+          {
+            "ingredient": "2 cloves garlic, minced",
+            "description": "Garlic enhances the flavor of the soup with a savory kick."
+          },
+          {
+            "ingredient": "1 tbsp olive oil",
+            "description": "Olive oil is used for sautéing the vegetables, contributing a mild, fruity flavor."
+          },
+          {
+            "ingredient": "1/4 cup fresh basil leaves",
+            "description": "Fresh basil provides a fragrant, aromatic flavor that elevates the soup."
+          },
+          {
+            "ingredient": "Salt",
+            "description": "Salt helps to enhance the flavors and balance the soup."
+          },
+          {
+            "ingredient": "Pepper",
+            "description": "Freshly ground pepper adds a mild heat and enhances the overall flavor of the soup."
+          }
+        ],
+        "rating": 4.7,
+        "steps": [
+          "Heat olive oil in a pot and sauté onion and garlic until fragrant.",
+          "Add canned tomatoes and vegetable broth.",
+          "Simmer for 20 minutes, stirring occasionally.",
+          "Blend the soup until smooth and return to the pot.",
+          "Add cream and basil leaves. Season with salt and pepper.",
+          "Serve hot."
+        ],
+        "time": "35 minutes",
+        "type": "Soup",
+        "category": "Vegetarian",
+        "difficulty": "Easy",
+        "servingSize": "4 servings",
+        "nutrition": {
+          "calories": "250",
+          "fat": "18g",
+          "protein": "3g",
+          "carbs": "22g",
+          "fiber": "4g"
+        },
+        "equipment": [
+          "Pot for simmering the soup",
+          "Chopping board and knife for chopping vegetables",
+          "Blender or immersion blender for blending the soup"
+        ],
+        "storage": {
+          "instructions": "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat on the stove or in the microwave.",
+          "freezable": true
+        },
+        "occasion": "Perfect for a cold day, served as a starter or light meal."
+      }
+      
+   
+  ]
+  
