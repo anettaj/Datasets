@@ -43,7 +43,7 @@
           "Remove from heat and quickly mix in the egg mixture.",
           "Serve immediately with extra Parmesan."
         ],
-        "time": "25 minutes",
+        "time": "25",
         "type": "Main Course",
         "category": "Italian",
         "difficulty": "Medium",
@@ -111,7 +111,7 @@
           "Add croutons and Parmesan cheese.",
           "Season with black pepper and serve immediately."
         ],
-        "time": "15 minutes",
+        "time": "15",
         "type": "Salad",
         "category": "American",
         "difficulty": "Easy",
@@ -196,11 +196,11 @@
           "Combine chicken with the sauce and simmer for 15 minutes.",
           "Stir in heavy cream and garnish with cilantro before serving."
         ],
-        "time": "45 minutes",
+        "time": "45",
         "type": "Main Course",
         "category": "Indian",
         "difficulty": "Medium",
-        "servingSize": "4 servings",
+        "servingSize": "4",
         "nutrition": {
           "calories": "550",
           "fat": "35g",
@@ -274,7 +274,7 @@
           "Pour batter onto the skillet and cook until bubbles form.",
           "Flip and cook until golden. Serve with syrup."
         ],
-        "time": "20 minutes",
+        "time": "20",
         "type": "Breakfast",
         "category": "American",
         "difficulty": "Easy",
@@ -348,11 +348,11 @@
           "Pour in the sauce and cook until thickened.",
           "Serve over rice or noodles."
         ],
-        "time": "20 minutes",
+        "time": "20",
         "type": "Side Dish",
         "category": "Asian",
         "difficulty": "Easy",
-        "servingSize": "4 servings",
+        "servingSize": "4",
         "nutrition": {
           "calories": "150",
           "fat": "8g",
@@ -420,11 +420,11 @@
           "Fill each shell with beef mixture, lettuce, cheese, and salsa.",
           "Serve immediately."
         ],
-        "time": "30 minutes",
+        "time": "30",
         "type": "Snack",
         "category": "Mexican",
         "difficulty": "Easy",
-        "servingSize": "4 servings",
+        "servingSize": "4",
         "nutrition": {
           "calories": "300",
           "fat": "20g",
@@ -498,11 +498,11 @@
           "Add cream and basil leaves. Season with salt and pepper.",
           "Serve hot."
         ],
-        "time": "35 minutes",
+        "time": "35",
         "type": "Soup",
         "category": "Vegetarian",
         "difficulty": "Easy",
-        "servingSize": "4 servings",
+        "servingSize": "4",
         "nutrition": {
           "calories": "250",
           "fat": "18g",
