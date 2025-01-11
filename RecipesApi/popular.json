@@ -47,7 +47,7 @@
         "type": "Main Course",
         "category": "Italian",
         "difficulty": "Medium",
-        "servingSize": "2 servings",
+        "servingSize": "2",
         "nutrition": {
           "calories": "650",
           "fat": "35g",
@@ -115,7 +115,7 @@
         "type": "Salad",
         "category": "American",
         "difficulty": "Easy",
-        "servingSize": "2-4 servings",
+        "servingSize": "2-4",
         "nutrition": {
           "calories": "300",
           "fat": "20g",
@@ -278,7 +278,7 @@
         "type": "Breakfast",
         "category": "American",
         "difficulty": "Easy",
-        "servingSize": "2-4 servings",
+        "servingSize": "2-4",
         "nutrition": {
           "calories": "250",
           "fat": "10g",
@@ -349,7 +349,7 @@
           "Serve over rice or noodles."
         ],
         "time": "20",
-        "type": "Side Dish",
+        "type": "Salad",
         "category": "Asian",
         "difficulty": "Easy",
         "servingSize": "4",
@@ -421,7 +421,7 @@
           "Serve immediately."
         ],
         "time": "30",
-        "type": "Snack",
+        "type": "Breakfast",
         "category": "Mexican",
         "difficulty": "Easy",
         "servingSize": "4",
